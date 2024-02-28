@@ -4,4 +4,7 @@ public class SalesReport {
 	public void weeklyReport() {
 		System.out.println("SalesReport.weeklyReport");
 	}
+	public void monthlyReport() {
+		System.out.println("SalesReport.monthlyReport");
+	}
 }
