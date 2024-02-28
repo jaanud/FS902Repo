@@ -7,4 +7,7 @@ public class SalesReport {
 	public void monthlyReport() {
 		System.out.println("SalesReport.monthlyReport");
 	}
+	public void yearlyReport() {
+		System.out.println("salesReport.monthlyReport()");
+	}
 }
