@@ -10,4 +10,8 @@ public class SalesReport {
 	public void yearlyReport() {
 		System.out.println("salesReport.monthlyReport()");
 	}
+	public void excelReport() {
+		System.out.println("salesReport.excelReport()");
+		
+	}
 }
